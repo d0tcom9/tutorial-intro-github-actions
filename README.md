@@ -3,9 +3,7 @@
 En este tutorial, explico brevemente que son Github actions y como podemos crear nuestro primer workflow. **mira el video: <YOUTUBE_LINK>**
 
 ![Diagrama del workflow](./flow-chart.png)
- esta es una nueva modificacion
 Sigue los pasos del video para poder configurar el workflow en tus proyectos.
- Este es uyn nuevo cambio
 ## Recursos
 
 - Documentacion oficial Github Actions: https://github.com/features/actions
@@ -14,5 +12,6 @@ Sigue los pasos del video para poder configurar el workflow en tus proyectos.
 - VIDEO: introduccion a Github actions: <LINK_VIDEO>
 
 ---
+Cambio git actions """""""""""
 
 Cualquier duda o consulta, escribeme por [twitter](https://hhg.link/twitter) o abre una [issue](https://github.com/horacioh/tutorial-github-actions-push-a-netlify/issues/new)!
